@@ -1,7 +1,8 @@
 # CBL-Swift
 Script para automatizar como cobrar por projetos de arquitetura
 
-Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, pois muitas questões devem ser consideradas na hora de precificar o trabalho de um arquiteto. Considerei minha experiência prévia e a dificuldade que tive durante meus anos de escritório, muitas vezes o valor cobrado não era o correto. Outro motivo para a criação desse script foi que percebi esse tipo de dificuldade em vários colegas de trabalho. Primeiro é importante saber que um projeto de arquitetura tem várias etapas: estudo preliminar, anteprojeto, projeto executivo. No estudo preliminar é feito o levantamento, que são as medições necessárias para iniciar o projeto, isso é passado para o autocad e inicia o programa de necessidades logo depois são feitas as plantas gerais do anteprojeto, tendo a aprovação do cliente passamos para a modelagem 3D, e renderização, após essa etapa aprovada segue para o projeto executivo onde são feitas as plantas que serão levadas para a obra, podendo ter ou não projeto de marcenaria. Quando a obra é iniciada o arquiteto pode fazer algumas visitas técnicas na obra.
+Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, pois muitas questões devem ser consideradas na hora de precificar o trabalho de um arquiteto.Considerei minha experiência prévia e a dificuldade que tive durante meus anos de escritório, muitas vezes o valor cobrado não era o correto. Outro motivo para a criação desse script foi que percebi esse tipo de dificuldade em vários colegas de trabalho.
+  Primeiro é importante saber que um projeto de arquitetura tem várias etapas: estudo preliminar, anteprojeto, projeto executivo. No estudo preliminar é feito o levantamento, que são as medições necessárias para iniciar o projeto, isso é passado para o autocad e inicia o programa de necessidades logo depois são feitas as plantas gerais do anteprojeto, tendo a aprovação do cliente passamos para a modelagem 3D, e renderização, após essa etapa aprovada segue para o projeto executivo onde são feitas as plantas que serão levadas para a obra, podendo ter ou não projeto de marcenaria. Quando a obra é iniciada o arquiteto pode fazer algumas visitas técnicas na obra.
 
 Explicação do código:
 - Primeiro foi levado em consideração o tipo de projeto utilizando switch case
@@ -13,4 +14,4 @@ Se for comercial o programa da as opções de ambientes para este módulo
 - Também foi levado em consideração o tempo que o arquiteto passará em cada programa, coloquei os 3 principais que utilizo, Autocad, Sketchup, Lumion e isso foi multiplicado pelo valor da hora e adicionado a função final
 - Outro aspecto levado em consideração foi o fato de ter marcenaria ou não no projeto utilizando if e else será adicionado um valor final a função ou não
 - Por último se terá ou não visita técnica na obra utilizando if e else
-Juntei tudo numa função final para calcular o valor que deve ser cobrado para o cliente.
+- Juntei tudo numa função final para calcular o valor que deve ser cobrado para o cliente.
