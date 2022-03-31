@@ -1,6 +1,9 @@
 # Como cobrar por projetos de arquitetura 👷🏻‍♀️
 
-Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, pois muitas questões devem ser consideradas na hora de precificar o trabalho de um arquiteto.Considerei minha experiência prévia e a dificuldade que tive durante meus anos de escritório, muitas vezes o valor cobrado não era o correto. Outro motivo para a criação desse script foi que percebi esse tipo de dificuldade em vários colegas de trabalho.
+Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, pois muitas questões devem ser consideradas na hora de precificar o trabalho de um arquiteto.
+# Motivo
+Considerei minha experiência prévia e a dificuldade que tive durante meus anos de escritório, muitas vezes o valor cobrado não era o correto. Outro motivo para a criação desse script foi que percebi esse tipo de dificuldade em vários colegas de trabalho.
+# Entendendo o código
   Primeiro é importante saber que um projeto de arquitetura tem várias etapas: estudo preliminar, anteprojeto, projeto executivo. No estudo preliminar é feito o levantamento, que são as medições necessárias para iniciar o projeto, isso é passado para o autocad e inicia o programa de necessidades logo depois são feitas as plantas gerais do anteprojeto, tendo a aprovação do cliente passamos para a modelagem 3D, e renderização, após essa etapa aprovada segue para o projeto executivo onde são feitas as plantas que serão levadas para a obra, podendo ter ou não projeto de marcenaria. Quando a obra é iniciada o arquiteto pode fazer algumas visitas técnicas na obra.
 
 Explicação do código:
