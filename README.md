@@ -45,7 +45,7 @@ Se for comercial o programa da as opções de ambientes para este módulo
 - Por último se terá ou não visita técnica na obra utilizando if e else
 - Juntei tudo numa função final para calcular o valor que deve ser cobrado para o cliente.
 
-# Desenvolvedores/Contribuintes :octocat:
+# Desenvolvedores :octocat:
 
 Liste o time responsável pelo desenvolvimento do projeto
 
