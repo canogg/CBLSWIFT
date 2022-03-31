@@ -23,7 +23,7 @@ macOS (Somente):
 
 Primeiramente, faça clone do projeto pelo o comando:
 ```
-git clone https://github.com/JoanWilson/Setterfolder.git
+https://github.com/canogg/CBLSWIFT.git
 ```
 
 # Explicação do código:
