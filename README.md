@@ -37,3 +37,10 @@ Se for comercial o programa da as opções de ambientes para este módulo
 - Outro aspecto levado em consideração foi o fato de ter marcenaria ou não no projeto utilizando if e else será adicionado um valor final a função ou não
 - Por último se terá ou não visita técnica na obra utilizando if e else
 - Juntei tudo numa função final para calcular o valor que deve ser cobrado para o cliente.
+
+## Desenvolvedores/Contribuintes :octocat:
+
+Liste o time responsável pelo desenvolvimento do projeto
+
+| [<img src="https://avatars.githubusercontent.com/u/82623118?v=4" width=115><br><sub>Sarah Madalena</sub>](https://github.com/Canogg) |  [<img |
+| :---: | :---: | :---: 
