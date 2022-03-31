@@ -1,4 +1,4 @@
-# Como cobrar por projetos de arquitetura 👷🏻‍♀️
+# ArqCalculator 👷🏻‍♀️
 
 Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, pois muitas questões devem ser consideradas na hora de precificar o trabalho de um arquiteto.
 
