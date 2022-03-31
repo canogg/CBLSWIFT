@@ -42,4 +42,4 @@ Se for comercial o programa da as opções de ambientes para este módulo
 
 Liste o time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/88619478?v=4" width=115><br><sub>Caroline Nogueira</sub>](https://github.com/Canogg) |  [<img |
+| [<img src="https://avatars.githubusercontent.com/u/88619478?v=4" width=115><br><sub>Caroline Nogueira</sub>](https://github.com/Canogg) | 
