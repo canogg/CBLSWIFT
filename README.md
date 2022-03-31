@@ -10,6 +10,13 @@ Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, po
 
 :small_blue_diamond: [Entendendo o Código](#entendendo-o-código)
 
+:small_blue_diamond: [Instalando](#instalando)
+
+:small_blue_diamond: [Explicação do Código](#explicação-do-código)
+
+:small_blue_diamond: [Desenvolvedores](#desenvolvedores)
+
+
 # Motivo
 Considerei minha experiência prévia e a dificuldade que tive durante meus anos de escritório, muitas vezes o valor cobrado não era o correto. Outro motivo para a criação desse script foi que percebi esse tipo de dificuldade em vários colegas de trabalho.
 # Entendendo o código
