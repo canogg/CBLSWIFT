@@ -1,6 +1,9 @@
 # Como cobrar por projetos de arquitetura 👷🏻‍♀️
 
 Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, pois muitas questões devem ser consideradas na hora de precificar o trabalho de um arquiteto.
+
+> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento)
+
 # Motivo
 Considerei minha experiência prévia e a dificuldade que tive durante meus anos de escritório, muitas vezes o valor cobrado não era o correto. Outro motivo para a criação desse script foi que percebi esse tipo de dificuldade em vários colegas de trabalho.
 # Entendendo o código
