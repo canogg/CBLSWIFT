@@ -4,6 +4,12 @@ Esse script foi pensado para otimizar a cobrança de projetos de arquitetura, po
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento)
 
+### Tópicos 
+
+:small_blue_diamond: [Motivos](#motivos)
+
+:small_blue_diamond: [Entendendo o Código](#entendendo-o-código)
+
 # Motivo
 Considerei minha experiência prévia e a dificuldade que tive durante meus anos de escritório, muitas vezes o valor cobrado não era o correto. Outro motivo para a criação desse script foi que percebi esse tipo de dificuldade em vários colegas de trabalho.
 # Entendendo o código
