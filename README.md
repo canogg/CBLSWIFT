@@ -17,7 +17,7 @@ Considerei minha experiência prévia e a dificuldade que tive durante meus anos
   
   ## 🚀 Instalando
 
-Para instalar o Setterfolder siga estas etapas:
+Para instalar siga estas etapas:
 
 macOS (Somente):
 
